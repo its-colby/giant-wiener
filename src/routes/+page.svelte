@@ -1,10 +1,9 @@
 <script lang="ts">
     // You can adjust the image path to your actual image location
-    const imagePath = "/zach-huang.HEIC";
 </script>
 
 <main>
-    <img src={imagePath} alt="Centered responsive image" />
+    <p>Hi</p>
 </main>
 
 <style>
